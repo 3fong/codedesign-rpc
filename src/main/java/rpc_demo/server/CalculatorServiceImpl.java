@@ -1,4 +1,4 @@
-package demo.server;
+package rpc_demo.server;
 
 public class CalculatorServiceImpl implements CalculatorService {
 

@@ -1,4 +1,4 @@
-package demo.client;
+package rpc_demo.client;
 
 public class ClientDemo {
 

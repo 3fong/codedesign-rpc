@@ -1,4 +1,4 @@
-package demo.server;
+package rpc_demo.client;
 
 public interface CalculatorService {
 

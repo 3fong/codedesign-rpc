@@ -1,4 +1,4 @@
-package demo.server;
+package rpc_demo.server;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
